@@ -1,0 +1,7 @@
+#¿Qué es mi producto y para que sirve?
+
+Nuestro servidor proporciona una plataforma versátil para la administración de tareas, lo que permite a los usuarios crear listas de tareas personalizadas. Cada tarea está identificada por un ID, una descripción y el estado de la tarea. Además, ofrecemos la capacidad de realizar validaciones como la actualización, eliminación y creación de tareas, así como la creación de listas detalladas, con la posibilidad de filtrar las tareas completadas o pendientes. Esto brinda a nuestros usuarios la flexibilidad de gestionar sus tareas de manera eficiente y personalizada. 
+
+#¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
+
+Nuestro servidor pone a disposición una gama de funcionalidades diseñadas para ofrecer un control efectivo sobre las tareas pendientes y la visualizacion de las tareas completadas. Los usuarios pueden realizar un seguimiento de su progreso al marcar las tareas, lo que posibilita la gestión eficiente de sus responsabilidades. Además, Con nuestro servidor mantiene un registro completo de todas las tareas registradas, lo que simplifica la revisión y el seguimiento de todo el proceso de gestión de tareas.
